@@ -1,0 +1,76 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-19 17:26:03 #1 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' has been recovered (tr. 4-6)
+
+[2020-02-19 17:26:03 #2 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' is opened by 5532@DESKTOP-POGLDPN
+
+[2020-02-19 17:26:03 #3 store] 
+Configuration path: ?
+
+[2020-02-19 17:26:04 #4 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2020-02-19 17:26:04 #5 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-19 17:26:19 #1 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' has been recovered (tr. 9-11)
+
+[2020-02-19 17:26:19 #2 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' is opened by 4820@DESKTOP-POGLDPN
+
+[2020-02-19 17:26:19 #3 store] 
+Configuration path: ?
+
+[2020-02-19 17:26:19 #4 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2020-02-19 17:26:19 #5 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-19 17:26:33 #1 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' has been recovered (tr. 14-15)
+
+[2020-02-19 17:26:33 #2 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' is opened by 6736@DESKTOP-POGLDPN
+
+[2020-02-19 17:26:33 #3 store] 
+Configuration path: ?
+
+[2020-02-19 17:26:33 #4 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2020-02-19 17:26:33 #5 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-19 17:27:25 #1 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' is opened by 1312@DESKTOP-POGLDPN
+
+[2020-02-19 17:27:25 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-19 17:27:38 #1 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' has been recovered (tr. 1-2)
+
+[2020-02-19 17:27:38 #2 store] 
+Database 'C:\Users\yarac\Documents\INFOR\Yara Workspace\2Marron2\RuralHouses.odb' is opened by 10040@DESKTOP-POGLDPN
+
+[2020-02-19 17:27:38 #3 store] 
+Configuration path: ?
+
+[2020-02-19 17:27:38 #4 type] 
+Type domain.Offer is not enhanced.
+
+[2020-02-19 17:27:38 #5 type] 
+Type domain.RuralHouse is not enhanced.
+
